@@ -69,6 +69,10 @@ The datasets used in this project consist of the following components:
    - Total playtime (in minutes) for each game.
    - Purchase history for all games.
 
+_Here is an unorganised version of steam API key data set:_
+
+![Screenshot 2024-11-29 135254](https://github.com/user-attachments/assets/ee170093-90a1-4d30-9d6d-61f5ead3e581)
+   
 2. **SteamDB Data**:
    - Game-specific metadata, such as:
      - Release date.
@@ -80,7 +84,18 @@ The datasets used in this project consist of the following components:
      - Total playtime.
      - Average playtime, price per game, and price per hour.
 
+
+_Here is unorganised version of SteamDB data set:_
+
+![image](https://github.com/user-attachments/assets/df20583f-7f2a-4696-81e2-0970b98cab3b)
+
 ---
+
+![Screenshot 2024-11-29 132906](https://github.com/user-attachments/assets/994b1975-c52f-40ed-9e5f-6d12bb091bd8)
+
+---
+
+
 
 ## **Expected Outcomes**
 
