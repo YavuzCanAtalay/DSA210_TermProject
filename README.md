@@ -2,13 +2,13 @@
 
 Welcome to the **Steam Account Data Analysis** project repository!
 
-My name is **Yavuz Can Atalay (32445)**, and I am a sophomore Computer Science student at **Sabancı University**. This project is part of the **Data Science Analysis (DSA210)** course and serves as the term project for the class. It involves a detailed analysis of my personal Steam account data collected over the past ten years. Through this analysis, I aim to answer specific research questions and derive meaningful insights about gaming habits and trends.
+My name is **Yavuz Can Atalay (32445)**, and I am a sophomore Computer Science student at **Sabancı University**. This project is part of the **Data Science Analysis (DSA210)** course and serves as the term project for the class. It involves a detailed analysis of my personal Steam account data collected over the past ten years. Through this analysis, I aim to answer specific research questions and derive meaningful insights about my own gaming habits and about what I enjoy.
 
 ---
 
 ## **Introduction**
 
-This project focuses on analyzing data from my Steam account using modern data science techniques. By leveraging the **Steam API** and **SteamDB**, I aim to extract, clean, and analyze gaming data accumulated over a decade. The ultimate goal is to uncover meaningful patterns and answer questions related to spending habits, gameplay preferences, and the correlation between game ratings and playtime.
+This project focuses on analyzing data from my own Steam account using modern data science techniques. By utilising the **Steam API** and **SteamDB**, I aim to extract, clean, and analyze my gaming data accumulated over a decade. The ultimate goal is to uncover meaningful patterns and answer questions related to my spending habits, my gameplay preferences, and the correlation between game ratings and playtime.
 
 ### **Key Tools and Resources**
 - **Steam API Key**: For fetching personal gaming data directly from Steam.
@@ -27,7 +27,7 @@ The primary objectives of this project are:
 2. **Categorize playtime by game genres**:
    - Determine which genres (e.g., action, strategy, story-driven games) dominate in terms of total playtime.
 3. **Explore the link between playtime and game ratings**:
-   - Examine if higher-rated games are played more frequently or for longer durations.
+   - Examine if I have played higher-rated games more frequently or do I have a distinctive taste.
 
 ---
 
@@ -48,7 +48,7 @@ Data will be collected from the following sources:
     - Genre classification (action, strategy, etc.).
 
 ### **2. Derived Data Analysis**
-After gathering and organizing the data, I will create derived datasets in CSV format for analysis. Key metrics to be calculated include:
+After gathering and organizing the data, I will create derived datasets for analysis. Key properties to be calculated include:
 - **Account Value (Current Price)**: Sum of current prices for all games.
 - **Account Value (Lowest Price)**: Sum of the historically lowest prices for all games.
 - **Total Games**: Number of games in the account.
@@ -69,9 +69,17 @@ The datasets used in this project consist of the following components:
    - Total playtime (in minutes) for each game.
    - Purchase history for all games.
 
-_Here is an unorganised version of steam API key data set:_
+_Here is a small and basic part of steam API key data set and a small part of steam purchase history:_
+---
 
 ![Screenshot 2024-11-29 135254](https://github.com/user-attachments/assets/ee170093-90a1-4d30-9d6d-61f5ead3e581)
+
+---
+
+![image](https://github.com/user-attachments/assets/e5cbdfc9-7356-457f-8895-57405f8b94f8)
+
+
+---
    
 2. **SteamDB Data**:
    - Game-specific metadata, such as:
@@ -85,7 +93,8 @@ _Here is an unorganised version of steam API key data set:_
      - Average playtime, price per game, and price per hour.
 
 
-_Here is unorganised version of SteamDB data set:_
+_Here is a basic version of SteamDB data set and a small part of game's data set extracted from Steam DB:_
+---
 
 ![image](https://github.com/user-attachments/assets/df20583f-7f2a-4696-81e2-0970b98cab3b)
 
@@ -106,4 +115,4 @@ By the end of the project, I aim to:
 - Examine whether higher-rated games lead to increased engagement.
 
 
-Feel free to explore the repository and its contents. Contributions and feedback are welcome!
+Feel free to explore the repository and its contents.
