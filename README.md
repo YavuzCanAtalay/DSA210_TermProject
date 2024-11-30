@@ -119,6 +119,7 @@ By the end of the project, I aim to:
 - Quantify the relationship between spending and playtime.
 - Identify favorite genres and their share of total playtime.
 - Examine whether higher-rated games lead to increased engagement.
+- Illustrate if there is a correlation between a games' release date and total playtime.
 
 
 Feel free to explore the repository and its contents.
