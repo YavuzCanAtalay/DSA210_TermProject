@@ -97,8 +97,8 @@ _Here is a small and basic part of steam API key data set and a small part of st
      - Average playtime, price per game, and price per hour.
      - 
 
----
-# Data File Access for SteamDB
+
+# **Data File Access for SteamDB**
 ---
 I will provide two options for yu to access the excel file for SteamDB data:
 1) Click here to open the excel file on google
