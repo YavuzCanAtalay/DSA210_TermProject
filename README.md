@@ -76,13 +76,11 @@ The datasets used in this project consist of the following components:
    - Purchase history for all games.
 
 _Here is a small and basic part of steam API key data set and a small part of steam purchase history:_
----
 
-![Screenshot 2024-11-29 135254](https://github.com/user-attachments/assets/ee170093-90a1-4d30-9d6d-61f5ead3e581)
 
----
 
-![image](https://github.com/user-attachments/assets/e5cbdfc9-7356-457f-8895-57405f8b94f8)
+
+
 
 
 ---
@@ -97,18 +95,20 @@ _Here is a small and basic part of steam API key data set and a small part of st
      - Total account value (current and lowest price).
      - Total playtime.
      - Average playtime, price per game, and price per hour.
-
-
-_Here is a basic version of SteamDB data set and a small part of game's data set extracted from Steam DB:_
----
-
-![image](https://github.com/user-attachments/assets/df20583f-7f2a-4696-81e2-0970b98cab3b)
+     - 
 
 ---
-
-![Screenshot 2024-11-29 132906](https://github.com/user-attachments/assets/994b1975-c52f-40ed-9e5f-6d12bb091bd8)
-
+# Data File Access for SteamDB
 ---
+I will provide two options for yu to access the excel file for SteamDB data:
+1) Click here to open the excel file on google
+**[View it Google Sheets]https://docs.google.com/spreadsheets/d/1xwX4v33SNmoA6eU41zR2Ox2pVIs-ea4t/edit?gid=808147749#gid=808147749
+2) Click here to download the excel file
+**[Download Excel File]https://github.com/YavuzCanAtalay/DSA210_TermProject/blob/main/SteamDBGameData.xlsx
+
+
+
+
 
 
 
