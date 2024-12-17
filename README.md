@@ -102,9 +102,11 @@ _Here is a small and basic part of steam API key data set and a small part of st
 ---
 I will provide two options for yu to access the excel file for SteamDB data:
 1) Click here to open the excel file on google
+   
 https://docs.google.com/spreadsheets/d/1xwX4v33SNmoA6eU41zR2Ox2pVIs-ea4t/edit?gid=808147749#gid=808147749
 
 3) Click here to download the excel file
+   
 https://github.com/YavuzCanAtalay/DSA210_TermProject/blob/main/SteamDBGameData.xlsx
 
 
