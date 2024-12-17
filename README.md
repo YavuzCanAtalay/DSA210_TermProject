@@ -107,7 +107,7 @@ I will provide two options for you to access the excel file for SteamDB data:
 
 3) Click here to download the excel file
    
-[Download the Excel file](https://raw.githubusercontent.com/YavuzCanAtalay/DSA210_TermProject/main/SteamDBGameData.xlsx)
+[Download the Excel file](https://raw.githubusercontent.com/YavuzCanAtalay/DSA210_TermProject/main/DataFile/SteamDBGameData.xlsx)
 
 
 
