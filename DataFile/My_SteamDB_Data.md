@@ -8,3 +8,11 @@ I will provide two options for you to access the excel file for SteamDB data:
 2) Click here to download the excel file
    
 [Download the Excel file](https://raw.githubusercontent.com/YavuzCanAtalay/DSA210_TermProject/main/SteamDBGameData.xlsx)
+
+
+# **Access for Steam API key**
+
+
+
+
+# **Data File Access for Steam purchase history
