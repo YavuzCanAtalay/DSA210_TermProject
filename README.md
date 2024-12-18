@@ -102,11 +102,11 @@ _Here is a small and basic part of steam API key data set and a small part of st
 ---
 
 You can access Data file from here:
-[DataFile access](https://steamdb.info/#:~:text=Database%20of%20everything%20on%20Steam,about%20SteamDB%2C%20join%20our%20Discord.)
+[DataFile access] -> (https://steamdb.info/#:~:text=Database%20of%20everything%20on%20Steam,about%20SteamDB%2C%20join%20our%20Discord.)](https://github.com/YavuzCanAtalay/DSA210_TermProject/blob/main/DataFile/My_SteamDB_Data.md)
 
 
 If you want to learn more about SteamDB you can wisit its website from here:
-[SteamDB website](https://steamdb.info/#:~:text=Database%20of%20everything%20on%20Steam,about%20SteamDB%2C%20join%20our%20Discord.)
+[SteamDB website] -> (https://steamdb.info/#:~:text=Database%20of%20everything%20on%20Steam,about%20SteamDB%2C%20join%20our%20Discord.)
 
 
 
