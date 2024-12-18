@@ -15,4 +15,4 @@ I will provide two options for you to access the excel file for SteamDB data:
 
 
 
-# **Data File Access for Steam purchase history
+# **Data File Access for Steam purchase history**
