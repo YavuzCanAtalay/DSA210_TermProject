@@ -100,14 +100,13 @@ _Here is a small and basic part of steam API key data set and a small part of st
 
 # **Data File Access for SteamDB**
 ---
-I will provide two options for you to access the excel file for SteamDB data:
-1) Click here to open the excel file on google
-   
-[View the excel file on google](https://docs.google.com/spreadsheets/d/1xwX4v33SNmoA6eU41zR2Ox2pVIs-ea4t/edit?gid=808147749#gid=808147749)
 
-3) Click here to download the excel file
-   
-[Download the Excel file](https://raw.githubusercontent.com/YavuzCanAtalay/DSA210_TermProject/main/DataFile/SteamDBGameData.xlsx)
+You can access Data file from here:
+[DataFile access](https://steamdb.info/#:~:text=Database%20of%20everything%20on%20Steam,about%20SteamDB%2C%20join%20our%20Discord.)
+
+
+If you want to learn more about SteamDB you can wisit its website from here:
+[SteamDB website](https://steamdb.info/#:~:text=Database%20of%20everything%20on%20Steam,about%20SteamDB%2C%20join%20our%20Discord.)
 
 
 
