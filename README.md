@@ -98,11 +98,12 @@ _Here is a small and basic part of steam API key data set and a small part of st
      - 
 
 
-# **Data File Access for SteamDB**
+# **Data File Access Links**
 ---
+You can use this section in order to access prefered data set:
 
 You can access Data file from here -> 
-[DataFile access](https://github.com/YavuzCanAtalay/DSA210_TermProject/blob/main/DataFile/My_SteamDB_Data.md)
+[DataFile access](https://github.com/YavuzCanAtalay/DSA210_TermProject/blob/main/DataFile/AllSteamDatas.md)
 
 
 If you want to learn more about SteamDB you can wisit its website from here -> 
