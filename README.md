@@ -8,7 +8,7 @@ This project focuses on analyzing data from my own Steam account using modern da
 
 If you want to see project outcome from the beginning, you can use this link to access google slides:
 
-[Project Outcome](https://docs.google.com/presentation/d/124_OZ_rQQY5kkzLNTs1DsN15obsqjgdjIRPxqr6b0q0/edit?usp=sharing)
+[Project Slides](https://docs.google.com/presentation/d/124_OZ_rQQY5kkzLNTs1DsN15obsqjgdjIRPxqr6b0q0/edit?usp=sharing)
 
 ---
 
