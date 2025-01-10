@@ -1,4 +1,4 @@
-# **SteamDB access links**
+# **Access links for data sets**
 
 Ech data set are uploaded here. By clicking related link you can observe datas.
 
