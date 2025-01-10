@@ -2,13 +2,18 @@
 
 Welcome to the **Steam Account Data Analysis** project repository!
 
-My name is **Yavuz Can Atalay (32445)**, and I am a sophomore Computer Science student at **Sabancı University**. This project is part of the **Data Science Analysis (DSA210)** course and serves as the term project for the class. It involves a detailed analysis of my personal Steam account data collected over the past ten years. Through this analysis, I aim to answer specific research questions and derive meaningful insights about my own gaming habits and about what I enjoy.
+My name is **Yavuz Can Atalay (32445)**, and I am a sophomore Computer Science student at **Sabancı University**. This project is part of the **Data Science Analysis (DSA210)** course and serves as the term project for the class. It involves a detailed analysis of my personal Steam account data collected over the past ten years. Through this analysis, I aim to answer specific research questions and derive meaningful insights about my own gaming habits and about what I enjoy. 
+
+This project focuses on analyzing data from my own Steam account using modern data science techniques. By utilising the **Steam API** and **SteamDB**, I aim to extract, clean, and analyze my gaming data accumulated over a decade. The ultimate goal is to uncover meaningful patterns and answer questions related to my spending habits, my gameplay preferences, and the correlation between game ratings and playtime. 
+
+If you want to see project outcome from the beginning, you can use this link to access google slides:
+
+[Project Outcome](https://docs.google.com/presentation/d/124_OZ_rQQY5kkzLNTs1DsN15obsqjgdjIRPxqr6b0q0/edit?usp=sharing)
 
 ---
 
 ## **Introduction**
 
-This project focuses on analyzing data from my own Steam account using modern data science techniques. By utilising the **Steam API** and **SteamDB**, I aim to extract, clean, and analyze my gaming data accumulated over a decade. The ultimate goal is to uncover meaningful patterns and answer questions related to my spending habits, my gameplay preferences, and the correlation between game ratings and playtime.
 
 - ### **Key Tools and Resources**
 - **Steam API Key**: For fetching personal gaming data directly from Steam.
