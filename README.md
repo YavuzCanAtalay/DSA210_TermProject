@@ -96,6 +96,14 @@ The datasets used in this project consist of the following components:
      - Total account value (current and lowest price).
      - Total playtime.
      - Average playtime, price per game, and price per hour.
+    
+---
+    
+3. ** Steam Purchase History Data**:
+     - Total amoun paid to each game including in-game purchases 
+     - If a game is refunded or not
+     - Conversion of TL to USD for better accuracy
+      
        
 
 
@@ -109,6 +117,7 @@ You can access Data file from here ->
 
 If you want to learn more about SteamDB you can wisit its website from here -> 
 [SteamDB website](https://steamdb.info/#:~:text=Database%20of%20everything%20on%20Steam,about%20SteamDB%2C%20join%20our%20Discord.)
+
 
 If you want to start observing the project outcome you can use this link ->
 [Project Outcome](https://github.com/YavuzCanAtalay/DSA210_TermProject/blob/main/ProjectGoogleCollab.ipynb)
