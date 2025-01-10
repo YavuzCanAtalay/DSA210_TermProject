@@ -103,6 +103,9 @@ You can access Data file from here ->
 If you want to learn more about SteamDB you can wisit its website from here -> 
 [SteamDB website](https://steamdb.info/#:~:text=Database%20of%20everything%20on%20Steam,about%20SteamDB%2C%20join%20our%20Discord.)
 
+If you want to start observing the project outcome you can use this link 
+[Project Outcome](https://github.com/YavuzCanAtalay/DSA210_TermProject/blob/main/ProjectOutcome.ipynb)
+
 
 
 
