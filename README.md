@@ -28,9 +28,6 @@ The primary objectives of this project are:
 2. **Explore the link between playtime and game ratings**:
    - Examine if I have played higher-rated games more frequently or do I have a distinctive taste.
    - Hypothesis: Games with higher average ratings have a positive correlation with total playtime.
-3. **Observe the relation between release date and playtime**:
-   - Find a bond between release dates and tpotal playtime
-   - Hypothesis: Games that are older have more playtime.
 
 ---
 
