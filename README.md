@@ -21,7 +21,7 @@ This project focuses on analyzing data from my own Steam account using modern da
 - **Seaborn**: Python library which let us illustrate datas using  matlotlib
 - **Scipy**: Computational library using numpy 
 
-The project will involve data such as game titles, playtime, purchase history, genres, and more, enabling a comprehensive analysis of gaming behavior.
+The project will involve data such as game titles, playtime, purchase history, genres mainly.
 
 ---
 
