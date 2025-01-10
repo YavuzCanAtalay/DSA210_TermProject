@@ -76,14 +76,6 @@ The datasets used in this project consist of the following components:
    - Total playtime (in minutes) for each game.
    - Purchase history for all games.
 
-_Here is a small and basic part of steam API key data set and a small part of steam purchase history:_
-
-
-
-
-
-
-
 ---
    
 2. **SteamDB Data**:
@@ -96,7 +88,7 @@ _Here is a small and basic part of steam API key data set and a small part of st
      - Total account value (current and lowest price).
      - Total playtime.
      - Average playtime, price per game, and price per hour.
-     - 
+       
 
 
 # **Data File Access Links**
@@ -110,7 +102,7 @@ You can access Data file from here ->
 If you want to learn more about SteamDB you can wisit its website from here -> 
 [SteamDB website](https://steamdb.info/#:~:text=Database%20of%20everything%20on%20Steam,about%20SteamDB%2C%20join%20our%20Discord.)
 
-If you want to start observing the project outcome you can use this link 
+If you want to start observing the project outcome you can use this link ->
 [Project Outcome](https://github.com/YavuzCanAtalay/DSA210_TermProject/blob/main/ProjectOutcome.ipynb)
 
 
