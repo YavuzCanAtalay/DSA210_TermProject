@@ -14,7 +14,7 @@ Ech data set are uploaded here. By clicking related link you can observe datas.
 **Access for Steam API data**
 
 
-[View data of API key](https://github.com/YavuzCanAtalay/DSA210_TermProject/blob/main/DataFile/SteamAPIDataRAW.txt)
+[View data of API key](https://github.com/YavuzCanAtalay/DSA210_TermProject/blob/main/DataFile/APIkey.json)
 
 ---
 
