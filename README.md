@@ -84,7 +84,7 @@ The datasets used in this project consist of the following components:
    - Total playtime (in minutes) for each game.
    - Purchase history for all games.
 
----
+
    
 2. **SteamDB Data**:
    - Game-specific metadata, such as:
@@ -97,9 +97,9 @@ The datasets used in this project consist of the following components:
      - Total playtime.
      - Average playtime, price per game, and price per hour.
     
----
+
     
-3. ** Steam Purchase History Data**:
+3. **Steam Purchase History Data**:
      - Total amoun paid to each game including in-game purchases 
      - If a game is refunded or not
      - Conversion of TL to USD for better accuracy
