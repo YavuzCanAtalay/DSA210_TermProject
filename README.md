@@ -10,9 +10,6 @@ My name is **Yavuz Can Atalay (32445)**, and I am a sophomore Computer Science s
 
 This project focuses on analyzing data from my own Steam account using modern data science techniques. By utilising the **Steam API** and **SteamDB**, I aim to extract, clean, and analyze my gaming data accumulated over a decade. The ultimate goal is to uncover meaningful patterns and answer questions related to my spending habits, my gameplay preferences, and the correlation between game ratings and playtime.
 
-### **Key Tools and Resources**
-- **Steam API Key**: For fetching personal gaming data directly from Steam.
-- **SteamDB**: A third-party platform providing enhanced and detailed game-specific data.
 - ### **Key Tools and Resources**
 - **Steam API Key**: For fetching personal gaming data directly from Steam.
 - **SteamDB**: A third-party platform providing enhanced and detailed game-specific data.
