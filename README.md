@@ -25,13 +25,10 @@ The primary objectives of this project are:
 1. **Analyze the relationship between money spent and time spent on games**:
    - Investigate whether the cost of a game correlates with the amount of time played.
    - Hypothesis: Games that cost more are associated with longer playtimes compared to cheaper games.
-2. **Categorize playtime by game genres**:
-   - Determine which genres (e.g., action, strategy, story-driven games) dominate in terms of total playtime.
-   - Popular genres have more playtime than regular games.
-3. **Explore the link between playtime and game ratings**:
+2. **Explore the link between playtime and game ratings**:
    - Examine if I have played higher-rated games more frequently or do I have a distinctive taste.
    - Hypothesis: Games with higher average ratings have a positive correlation with total playtime.
-4. **Observe the relation between release date and playtime**:
+3. **Observe the relation between release date and playtime**:
    - Find a bond between release dates and tpotal playtime
    - Hypothesis: Games that are older have more playtime.
 
