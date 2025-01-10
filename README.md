@@ -6,9 +6,12 @@ My name is **Yavuz Can Atalay (32445)**, and I am a sophomore Computer Science s
 
 This project focuses on analyzing data from my own Steam account using modern data science techniques. By utilising the **Steam API** and **SteamDB**, I aim to extract, clean, and analyze my gaming data accumulated over a decade. The ultimate goal is to uncover meaningful patterns and answer questions related to my spending habits, my gameplay preferences, and the correlation between game ratings and playtime. 
 
-If you want to see project outcome from the beginning, you can use this link to access google slides:
+If you want to see project outcome from the beginning, you can use this link to access google slides. Also you may use second link in order to access google collab containing relevant codes.
 
 [Project Slides](https://docs.google.com/presentation/d/124_OZ_rQQY5kkzLNTs1DsN15obsqjgdjIRPxqr6b0q0/edit?usp=sharing)
+
+
+[Google Collab Codes](https://colab.research.google.com/drive/1BAprvd8etux_KpEkxhXlGfGO71iDjxnN?authuser=2)
 
 ---
 
