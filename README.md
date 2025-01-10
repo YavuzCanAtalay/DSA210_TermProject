@@ -13,6 +13,16 @@ This project focuses on analyzing data from my own Steam account using modern da
 ### **Key Tools and Resources**
 - **Steam API Key**: For fetching personal gaming data directly from Steam.
 - **SteamDB**: A third-party platform providing enhanced and detailed game-specific data.
+- ### **Key Tools and Resources**
+- **Steam API Key**: For fetching personal gaming data directly from Steam.
+- **SteamDB**: A third-party platform providing enhanced and detailed game-specific data.
+- **Steam**: Gaming Platform
+- **json**: Python library allowing us to work on JSON data(API key)
+- **pandas**: Python library used for numerical operations on large datas
+- **matlotlib**: Visualisation python library
+- **numpy**: Python library which let us work with large arrays of data
+- **seaborn**: Python library which let us illustrate datas using  matlotlib
+- **scipy**: Computational library using numpy 
 
 The project will involve data such as game titles, playtime, purchase history, genres, and more, enabling a comprehensive analysis of gaming behavior.
 
